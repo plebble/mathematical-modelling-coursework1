@@ -2,23 +2,23 @@
   {
     "bump_height": 0.025,
     "bump_width": 0.1,
-    "max_accel": 0.9018038461,
-    "max_jerk": 13.06487667,
+    "max_accel": 0.901803846,
+    "max_jerk": 13.06487668,
     "min_accel": -0.7187514693,
     "min_jerk": -21.70130112
   },
   {
     "bump_height": 0.05,
     "bump_width": 0.1,
-    "max_accel": 1.803607691,
-    "max_jerk": 26.12975333,
+    "max_accel": 1.803607692,
+    "max_jerk": 26.12975334,
     "min_accel": -1.437502939,
     "min_jerk": -43.40260226
   },
   {
     "bump_height": 0.075,
     "bump_width": 0.1,
-    "max_accel": 2.705411539,
+    "max_accel": 2.705411538,
     "max_jerk": 39.19463005,
     "min_accel": -2.156254407,
     "min_jerk": -65.10390339
@@ -27,7 +27,7 @@
     "bump_height": 0.1,
     "bump_width": 0.1,
     "max_accel": 3.607215385,
-    "max_jerk": 52.2595067,
+    "max_jerk": 52.25950672,
     "min_accel": -2.875005876,
     "min_jerk": -86.80520451
   },
@@ -35,7 +35,7 @@
     "bump_height": 0.125,
     "bump_width": 0.1,
     "max_accel": 4.509019234,
-    "max_jerk": 65.32438336,
+    "max_jerk": 65.32438338,
     "min_accel": -3.593757344,
     "min_jerk": -108.5065056
   },
@@ -53,31 +53,31 @@
     "max_accel": 0.7516727461,
     "max_jerk": 7.508097985,
     "min_accel": -0.8903367351,
-    "min_jerk": -15.45327519
+    "min_jerk": -15.4532752
   },
   {
     "bump_height": 0.05,
     "bump_width": 0.15,
     "max_accel": 1.503345494,
-    "max_jerk": 15.01619596,
+    "max_jerk": 15.01619597,
     "min_accel": -1.78067347,
-    "min_jerk": -30.90655042
+    "min_jerk": -30.90655043
   },
   {
     "bump_height": 0.075,
     "bump_width": 0.15,
     "max_accel": 2.255018239,
-    "max_jerk": 22.52429396,
+    "max_jerk": 22.52429397,
     "min_accel": -2.671010205,
-    "min_jerk": -46.35982559
+    "min_jerk": -46.35982561
   },
   {
     "bump_height": 0.1,
     "bump_width": 0.15,
     "max_accel": 3.006690983,
-    "max_jerk": 30.03239192,
-    "min_accel": -3.561346942,
-    "min_jerk": -61.81310083
+    "max_jerk": 30.03239194,
+    "min_accel": -3.561346944,
+    "min_jerk": -61.81310082
   },
   {
     "bump_height": 0.125,
@@ -99,15 +99,15 @@
     "bump_height": 0.025,
     "bump_width": 0.2,
     "max_accel": 0.6244466055,
-    "max_jerk": 4.82500635,
+    "max_jerk": 4.825006351,
     "min_accel": -0.9487379392,
-    "min_jerk": -11.76973887
+    "min_jerk": -11.76973888
   },
   {
     "bump_height": 0.05,
     "bump_width": 0.2,
     "max_accel": 1.248893213,
-    "max_jerk": 9.650012709,
+    "max_jerk": 9.650012707,
     "min_accel": -1.897475878,
     "min_jerk": -23.53947776
   },
@@ -131,31 +131,31 @@
     "bump_height": 0.125,
     "bump_width": 0.2,
     "max_accel": 3.122233027,
-    "max_jerk": 24.12503172,
+    "max_jerk": 24.12503173,
     "min_accel": -4.743689694,
     "min_jerk": -58.84869439
   },
   {
     "bump_height": 0.15,
     "bump_width": 0.2,
-    "max_accel": 3.746679635,
-    "max_jerk": 28.95003811,
+    "max_accel": 3.746679634,
+    "max_jerk": 28.9500381,
     "min_accel": -5.692427633,
-    "min_jerk": -70.61843326
+    "min_jerk": -70.61843325
   },
   {
     "bump_height": 0.025,
     "bump_width": 0.25,
     "max_accel": 0.5190071764,
-    "max_jerk": 3.29847348,
+    "max_jerk": 3.298473479,
     "min_accel": -0.9328054349,
-    "min_jerk": -9.176625144
+    "min_jerk": -9.176625157
   },
   {
     "bump_height": 0.05,
     "bump_width": 0.25,
     "max_accel": 1.038014353,
-    "max_jerk": 6.596946962,
+    "max_jerk": 6.59694696,
     "min_accel": -1.86561087,
     "min_jerk": -18.35325031
   },
@@ -163,65 +163,65 @@
     "bump_height": 0.075,
     "bump_width": 0.25,
     "max_accel": 1.557021533,
-    "max_jerk": 9.895420436,
+    "max_jerk": 9.895420415,
     "min_accel": -2.798416304,
-    "min_jerk": -27.52987547
+    "min_jerk": -27.52987548
   },
   {
     "bump_height": 0.1,
     "bump_width": 0.25,
     "max_accel": 2.076028705,
-    "max_jerk": 13.19389391,
-    "min_accel": -3.731221741,
+    "max_jerk": 13.19389389,
+    "min_accel": -3.731221742,
     "min_jerk": -36.70650067
   },
   {
     "bump_height": 0.125,
     "bump_width": 0.25,
-    "max_accel": 2.595035883,
-    "max_jerk": 16.49236739,
+    "max_accel": 2.595035882,
+    "max_jerk": 16.49236738,
     "min_accel": -4.664027174,
-    "min_jerk": -45.88312578
+    "min_jerk": -45.88312579
   },
   {
     "bump_height": 0.15,
     "bump_width": 0.25,
-    "max_accel": 3.114043057,
-    "max_jerk": 19.7908409,
-    "min_accel": -5.596832608,
+    "max_accel": 3.114043055,
+    "max_jerk": 19.79084086,
+    "min_accel": -5.59683261,
     "min_jerk": -55.05975094
   },
   {
     "bump_height": 0.025,
     "bump_width": 0.3,
     "max_accel": 0.4326240906,
-    "max_jerk": 2.348098974,
-    "min_accel": -0.8742614299,
+    "max_jerk": 2.348098979,
+    "min_accel": -0.8742614298,
     "min_jerk": -7.225492513
   },
   {
     "bump_height": 0.05,
     "bump_width": 0.3,
-    "max_accel": 0.8652481818,
-    "max_jerk": 4.696197914,
-    "min_accel": -1.748522862,
-    "min_jerk": -14.45098501
+    "max_accel": 0.8652481813,
+    "max_jerk": 4.69619793,
+    "min_accel": -1.748522861,
+    "min_jerk": -14.45098502
   },
   {
     "bump_height": 0.075,
     "bump_width": 0.3,
     "max_accel": 1.297872271,
-    "max_jerk": 7.044296896,
+    "max_jerk": 7.04429689,
     "min_accel": -2.62278429,
-    "min_jerk": -21.67647753
+    "min_jerk": -21.67647755
   },
   {
     "bump_height": 0.1,
     "bump_width": 0.3,
     "max_accel": 1.730496363,
-    "max_jerk": 9.392395823,
+    "max_jerk": 9.392395842,
     "min_accel": -3.49704572,
-    "min_jerk": -28.90197005
+    "min_jerk": -28.90197006
   },
   {
     "bump_height": 0.125,
@@ -244,38 +244,38 @@
     "bump_width": 0.35,
     "max_accel": 0.3622147677,
     "max_jerk": 1.721716531,
-    "min_accel": -0.7951786132,
-    "min_jerk": -5.721122341
+    "min_accel": -0.7951786133,
+    "min_jerk": -5.721122343
   },
   {
     "bump_height": 0.05,
     "bump_width": 0.35,
     "max_accel": 0.7244295352,
-    "max_jerk": 3.443433066,
-    "min_accel": -1.590357226,
-    "min_jerk": -11.44224468
+    "max_jerk": 3.443433086,
+    "min_accel": -1.590357228,
+    "min_jerk": -11.44224469
   },
   {
     "bump_height": 0.075,
     "bump_width": 0.35,
     "max_accel": 1.086644307,
-    "max_jerk": 5.16514956,
+    "max_jerk": 5.165149556,
     "min_accel": -2.38553584,
-    "min_jerk": -17.16336703
+    "min_jerk": -17.16336702
   },
   {
     "bump_height": 0.1,
     "bump_width": 0.35,
     "max_accel": 1.448859072,
-    "max_jerk": 6.88686608,
+    "max_jerk": 6.886866066,
     "min_accel": -3.180714451,
-    "min_jerk": -22.88448938
+    "min_jerk": -22.88448939
   },
   {
     "bump_height": 0.125,
     "bump_width": 0.35,
     "max_accel": 1.81107384,
-    "max_jerk": 8.608582598,
+    "max_jerk": 8.608582609,
     "min_accel": -3.975893067,
     "min_jerk": -28.6056117
   },
@@ -290,170 +290,170 @@
   {
     "bump_height": 0.025,
     "bump_width": 0.4,
-    "max_accel": 0.3048926486,
-    "max_jerk": 1.292108541,
-    "min_accel": -0.7095491642,
-    "min_jerk": -4.550600959
+    "max_accel": 0.3048926493,
+    "max_jerk": 1.292108543,
+    "min_accel": -0.7095491638,
+    "min_jerk": -4.550600954
   },
   {
     "bump_height": 0.05,
     "bump_width": 0.4,
-    "max_accel": 0.6097853015,
+    "max_accel": 0.6097853011,
     "max_jerk": 2.584217076,
     "min_accel": -1.419098329,
-    "min_jerk": -9.10120192
+    "min_jerk": -9.10120193
   },
   {
     "bump_height": 0.075,
     "bump_width": 0.4,
-    "max_accel": 0.9146779502,
-    "max_jerk": 3.87632563,
-    "min_accel": -2.128647492,
+    "max_accel": 0.914677949,
+    "max_jerk": 3.876325655,
+    "min_accel": -2.128647491,
     "min_jerk": -13.65180288
   },
   {
     "bump_height": 0.1,
     "bump_width": 0.4,
-    "max_accel": 1.219570604,
-    "max_jerk": 5.16843418,
-    "min_accel": -2.838196656,
-    "min_jerk": -18.20240386
+    "max_accel": 1.219570603,
+    "max_jerk": 5.1684342,
+    "min_accel": -2.838196655,
+    "min_jerk": -18.20240384
   },
   {
     "bump_height": 0.125,
     "bump_width": 0.4,
-    "max_accel": 1.524463253,
-    "max_jerk": 6.46054274,
-    "min_accel": -3.547745818,
+    "max_accel": 1.52446325,
+    "max_jerk": 6.46054276,
+    "min_accel": -3.547745816,
     "min_jerk": -22.7530048
   },
   {
     "bump_height": 0.15,
     "bump_width": 0.4,
-    "max_accel": 1.829355894,
-    "max_jerk": 7.75265121,
-    "min_accel": -4.257294983,
+    "max_accel": 1.829355904,
+    "max_jerk": 7.752651242,
+    "min_accel": -4.257294981,
     "min_jerk": -27.30360575
   },
   {
     "bump_height": 0.025,
     "bump_width": 0.45,
-    "max_accel": 0.2581624721,
-    "max_jerk": 0.988510694,
+    "max_accel": 0.2581624723,
+    "max_jerk": 0.98851068,
     "min_accel": -0.6255589822,
-    "min_jerk": -3.636243425
+    "min_jerk": -3.636243413
   },
   {
     "bump_height": 0.05,
     "bump_width": 0.45,
-    "max_accel": 0.5163249475,
+    "max_accel": 0.5163249478,
     "max_jerk": 1.977021383,
-    "min_accel": -1.251117963,
-    "min_jerk": -7.272486835
+    "min_accel": -1.251117962,
+    "min_jerk": -7.27248684
   },
   {
     "bump_height": 0.075,
     "bump_width": 0.45,
-    "max_accel": 0.7744874206,
-    "max_jerk": 2.96553208,
-    "min_accel": -1.876676943,
+    "max_accel": 0.774487421,
+    "max_jerk": 2.965532065,
+    "min_accel": -1.876676942,
     "min_jerk": -10.90873025
   },
   {
     "bump_height": 0.1,
     "bump_width": 0.45,
-    "max_accel": 1.032649896,
-    "max_jerk": 3.95404278,
-    "min_accel": -2.502235925,
-    "min_jerk": -14.54497371
+    "max_accel": 1.032649893,
+    "max_jerk": 3.954042777,
+    "min_accel": -2.502235924,
+    "min_jerk": -14.54497368
   },
   {
     "bump_height": 0.125,
     "bump_width": 0.45,
-    "max_accel": 1.290812364,
-    "max_jerk": 4.94255343,
-    "min_accel": -3.127794907,
-    "min_jerk": -18.1812171
+    "max_accel": 1.290812368,
+    "max_jerk": 4.942553416,
+    "min_accel": -3.127794906,
+    "min_jerk": -18.18121711
   },
   {
     "bump_height": 0.15,
     "bump_width": 0.45,
-    "max_accel": 1.548974847,
+    "max_accel": 1.548974849,
     "max_jerk": 5.93106415,
     "min_accel": -3.753353888,
-    "min_jerk": -21.81746054
+    "min_jerk": -21.81746052
   },
   {
     "bump_height": 0.025,
     "bump_width": 0.5,
     "max_accel": 0.2199537658,
-    "max_jerk": 0.76880093,
-    "min_accel": -0.5475473548,
-    "min_jerk": -2.920154192
+    "max_jerk": 0.768800941,
+    "min_accel": -0.5475473546,
+    "min_jerk": -2.920154191
   },
   {
     "bump_height": 0.05,
     "bump_width": 0.5,
-    "max_accel": 0.4399075288,
-    "max_jerk": 1.537601879,
-    "min_accel": -1.09509471,
-    "min_jerk": -5.840308384
+    "max_accel": 0.4399075267,
+    "max_jerk": 1.537601888,
+    "min_accel": -1.095094708,
+    "min_jerk": -5.840308387
   },
   {
     "bump_height": 0.075,
     "bump_width": 0.5,
-    "max_accel": 0.6598612928,
-    "max_jerk": 2.306402805,
-    "min_accel": -1.642642066,
-    "min_jerk": -8.760462598
+    "max_accel": 0.6598612908,
+    "max_jerk": 2.306402811,
+    "min_accel": -1.642642065,
+    "min_jerk": -8.760462593
   },
   {
     "bump_height": 0.1,
     "bump_width": 0.5,
-    "max_accel": 0.8798150564,
-    "max_jerk": 3.075203738,
-    "min_accel": -2.19018942,
+    "max_accel": 0.8798150543,
+    "max_jerk": 3.07520373,
+    "min_accel": -2.190189419,
     "min_jerk": -11.68061677
   },
   {
     "bump_height": 0.125,
     "bump_width": 0.5,
     "max_accel": 1.099768814,
-    "max_jerk": 3.844004679,
-    "min_accel": -2.737736772,
-    "min_jerk": -14.60077095
+    "max_jerk": 3.844004705,
+    "min_accel": -2.73773677,
+    "min_jerk": -14.60077096
   },
   {
     "bump_height": 0.15,
     "bump_width": 0.5,
     "max_accel": 1.319722582,
-    "max_jerk": 4.612805616,
+    "max_jerk": 4.6128056,
     "min_accel": -3.285284126,
-    "min_jerk": -17.52092517
+    "min_jerk": -17.52092515
   },
   {
     "bump_height": 0.025,
     "bump_width": 0.55,
-    "max_accel": 0.188586372,
-    "max_jerk": 0.60663369,
-    "min_accel": -0.4774488032,
+    "max_accel": 0.1885863725,
+    "max_jerk": 0.606633696,
+    "min_accel": -0.4774488034,
     "min_jerk": -2.357890416
   },
   {
     "bump_height": 0.05,
     "bump_width": 0.55,
-    "max_accel": 0.377172747,
-    "max_jerk": 1.21326739,
-    "min_accel": -0.9548976066,
+    "max_accel": 0.3771727491,
+    "max_jerk": 1.213267395,
+    "min_accel": -0.9548976069,
     "min_jerk": -4.715780836
   },
   {
     "bump_height": 0.075,
     "bump_width": 0.55,
-    "max_accel": 0.5657591214,
-    "max_jerk": 1.81990111,
+    "max_accel": 0.5657591216,
+    "max_jerk": 1.81990109,
     "min_accel": -1.432346411,
-    "min_jerk": -7.073671269
+    "min_jerk": -7.073671256
   },
   {
     "bump_height": 0.1,
@@ -461,13 +461,13 @@
     "max_accel": 0.7543454952,
     "max_jerk": 2.4265348,
     "min_accel": -1.909795215,
-    "min_jerk": -9.43156168
+    "min_jerk": -9.431561654
   },
   {
     "bump_height": 0.125,
     "bump_width": 0.55,
     "max_accel": 0.9429318728,
-    "max_jerk": 3.03316849,
+    "max_jerk": 3.0331685,
     "min_accel": -2.387244017,
     "min_jerk": -11.7894521
   },
@@ -475,159 +475,159 @@
     "bump_height": 0.15,
     "bump_width": 0.55,
     "max_accel": 1.131518238,
-    "max_jerk": 3.63980221,
+    "max_jerk": 3.63980222,
     "min_accel": -2.86469282,
-    "min_jerk": -14.14734249
+    "min_jerk": -14.1473425
   },
   {
     "bump_height": 0.025,
     "bump_width": 0.6,
-    "max_accel": 0.162713612,
-    "max_jerk": 0.48490139,
-    "min_accel": -0.4157737624,
-    "min_jerk": -1.915053374
+    "max_accel": 0.162713613,
+    "max_jerk": 0.484901392,
+    "min_accel": -0.4157737625,
+    "min_jerk": -1.915053371
   },
   {
     "bump_height": 0.05,
     "bump_width": 0.6,
-    "max_accel": 0.3254272242,
+    "max_accel": 0.3254272245,
     "max_jerk": 0.969802788,
     "min_accel": -0.8315475257,
-    "min_jerk": -3.830106738
+    "min_jerk": -3.830106743
   },
   {
     "bump_height": 0.075,
     "bump_width": 0.6,
-    "max_accel": 0.488140838,
-    "max_jerk": 1.45470418,
+    "max_accel": 0.4881408352,
+    "max_jerk": 1.454704182,
     "min_accel": -1.247321284,
-    "min_jerk": -5.745160121
+    "min_jerk": -5.745160112
   },
   {
     "bump_height": 0.1,
     "bump_width": 0.6,
-    "max_accel": 0.650854447,
-    "max_jerk": 1.93960558,
-    "min_accel": -1.663095045,
-    "min_jerk": -7.66021349
+    "max_accel": 0.650854449,
+    "max_jerk": 1.939605579,
+    "min_accel": -1.663095046,
+    "min_jerk": -7.660213479
   },
   {
     "bump_height": 0.125,
     "bump_width": 0.6,
-    "max_accel": 0.813568058,
-    "max_jerk": 2.424506952,
+    "max_accel": 0.8135680608,
+    "max_jerk": 2.424506965,
     "min_accel": -2.078868811,
-    "min_jerk": -9.575266874
+    "min_jerk": -9.57526687
   },
   {
     "bump_height": 0.15,
     "bump_width": 0.6,
-    "max_accel": 0.97628167,
-    "max_jerk": 2.90940838,
+    "max_accel": 0.976281671,
+    "max_jerk": 2.90940837,
     "min_accel": -2.494642576,
-    "min_jerk": -11.49032025
+    "min_jerk": -11.49032024
   },
   {
     "bump_height": 0.025,
     "bump_width": 0.65,
-    "max_accel": 0.1412628152,
-    "max_jerk": 0.392158711,
+    "max_accel": 0.141262815,
+    "max_jerk": 0.3921587106,
     "min_accel": -0.362242605,
-    "min_jerk": -1.565000969
+    "min_jerk": -1.565000965
   },
   {
     "bump_height": 0.05,
     "bump_width": 0.65,
-    "max_accel": 0.2825256295,
-    "max_jerk": 0.784317418,
+    "max_accel": 0.2825256293,
+    "max_jerk": 0.784317428,
     "min_accel": -0.7244852102,
-    "min_jerk": -3.13000193
+    "min_jerk": -3.130001914
   },
   {
     "bump_height": 0.075,
     "bump_width": 0.65,
-    "max_accel": 0.4237884448,
-    "max_jerk": 1.176476157,
-    "min_accel": -1.086727816,
-    "min_jerk": -4.695002893
+    "max_accel": 0.4237884457,
+    "max_jerk": 1.176476163,
+    "min_accel": -1.086727817,
+    "min_jerk": -4.695002899
   },
   {
     "bump_height": 0.1,
     "bump_width": 0.65,
-    "max_accel": 0.5650512602,
-    "max_jerk": 1.568634855,
-    "min_accel": -1.448970419,
-    "min_jerk": -6.260003891
+    "max_accel": 0.5650512598,
+    "max_jerk": 1.568634841,
+    "min_accel": -1.448970418,
+    "min_jerk": -6.260003877
   },
   {
     "bump_height": 0.125,
     "bump_width": 0.65,
-    "max_accel": 0.7063140761,
-    "max_jerk": 1.960793558,
+    "max_accel": 0.7063140762,
+    "max_jerk": 1.960793552,
     "min_accel": -1.811213026,
-    "min_jerk": -7.82500483
+    "min_jerk": -7.825004832
   },
   {
     "bump_height": 0.15,
     "bump_width": 0.65,
-    "max_accel": 0.8475768904,
-    "max_jerk": 2.352952271,
+    "max_accel": 0.8475768899,
+    "max_jerk": 2.352952275,
     "min_accel": -2.173455628,
-    "min_jerk": -9.390005801
+    "min_jerk": -9.390005796
   },
   {
     "bump_height": 0.025,
     "bump_width": 0.7,
     "max_accel": 0.1233818966,
-    "max_jerk": 0.3205616186,
+    "max_jerk": 0.3205615033,
     "min_accel": -0.31617945,
-    "min_jerk": -1.287127363
+    "min_jerk": -1.287127348
   },
   {
     "bump_height": 0.05,
     "bump_width": 0.7,
-    "max_accel": 0.2467637929,
-    "max_jerk": 0.641123028,
+    "max_accel": 0.2467637931,
+    "max_jerk": 0.641123037,
     "min_accel": -0.6323588979,
     "min_jerk": -2.574254695
   },
   {
     "bump_height": 0.075,
     "bump_width": 0.7,
-    "max_accel": 0.3701456889,
-    "max_jerk": 0.961684546,
-    "min_accel": -0.9485383494,
-    "min_jerk": -3.86138204
+    "max_accel": 0.3701456891,
+    "max_jerk": 0.961684532,
+    "min_accel": -0.9485383488,
+    "min_jerk": -3.861382037
   },
   {
     "bump_height": 0.1,
     "bump_width": 0.7,
-    "max_accel": 0.4935275846,
-    "max_jerk": 1.282246051,
+    "max_accel": 0.493527586,
+    "max_jerk": 1.282246084,
     "min_accel": -1.264717797,
-    "min_jerk": -5.148509388
+    "min_jerk": -5.148509394
   },
   {
     "bump_height": 0.125,
     "bump_width": 0.7,
-    "max_accel": 0.6169094838,
-    "max_jerk": 1.602807538,
+    "max_accel": 0.6169094832,
+    "max_jerk": 1.602807552,
     "min_accel": -1.58089725,
-    "min_jerk": -6.435636731
+    "min_jerk": -6.435636729
   },
   {
     "bump_height": 0.15,
     "bump_width": 0.7,
-    "max_accel": 0.7402913768,
-    "max_jerk": 1.923369082,
+    "max_accel": 0.7402913764,
+    "max_jerk": 1.923369086,
     "min_accel": -1.897076699,
-    "min_jerk": -7.722764074
+    "min_jerk": -7.722764076
   },
   {
     "bump_height": 0.025,
     "bump_width": 0.75,
-    "max_accel": 0.1083941114,
-    "max_jerk": 0.264622707,
+    "max_accel": 0.1083941115,
+    "max_jerk": 0.264622697,
     "min_accel": -0.2767474047,
     "min_jerk": -1.0655162
   },
@@ -635,54 +635,54 @@
     "bump_height": 0.05,
     "bump_width": 0.75,
     "max_accel": 0.2167882225,
-    "max_jerk": 0.529245412,
+    "max_jerk": 0.52924541,
     "min_accel": -0.5534948084,
-    "min_jerk": -2.131032389
+    "min_jerk": -2.131032399
   },
   {
     "bump_height": 0.075,
     "bump_width": 0.75,
-    "max_accel": 0.3251823352,
-    "max_jerk": 0.79386818,
+    "max_accel": 0.3251823362,
+    "max_jerk": 0.7938681777,
     "min_accel": -0.8302422145,
-    "min_jerk": -3.196548593
+    "min_jerk": -3.196548589
   },
   {
     "bump_height": 0.1,
     "bump_width": 0.75,
-    "max_accel": 0.4335764455,
-    "max_jerk": 1.05849085,
-    "min_accel": -1.10698962,
-    "min_jerk": -4.262064761
+    "max_accel": 0.4335764459,
+    "max_jerk": 1.058490844,
+    "min_accel": -1.106989619,
+    "min_jerk": -4.262064789
   },
   {
     "bump_height": 0.125,
     "bump_width": 0.75,
-    "max_accel": 0.5419705564,
-    "max_jerk": 1.32311358,
+    "max_accel": 0.541970556,
+    "max_jerk": 1.323113566,
     "min_accel": -1.383737024,
-    "min_jerk": -5.327580982
+    "min_jerk": -5.327580976
   },
   {
     "bump_height": 0.15,
     "bump_width": 0.75,
-    "max_accel": 0.650364669,
+    "max_accel": 0.6503646689,
     "max_jerk": 1.58773625,
     "min_accel": -1.660484428,
-    "min_jerk": -6.393097163
+    "min_jerk": -6.393097172
   },
   {
     "bump_height": 0.025,
     "bump_width": 0.8,
-    "max_accel": 0.09576117645,
-    "max_jerk": 0.2204357315,
+    "max_accel": 0.09576117638,
+    "max_jerk": 0.220435732,
     "min_accel": -0.2430826523,
-    "min_jerk": -0.88787994
+    "min_jerk": -0.8878799402
   },
   {
     "bump_height": 0.05,
     "bump_width": 0.8,
-    "max_accel": 0.1915223515,
+    "max_accel": 0.1915223529,
     "max_jerk": 0.44087146,
     "min_accel": -0.4861653054,
     "min_jerk": -1.775759874
@@ -690,130 +690,130 @@
   {
     "bump_height": 0.075,
     "bump_width": 0.8,
-    "max_accel": 0.2872835304,
-    "max_jerk": 0.66130721,
-    "min_accel": -0.7292479561,
-    "min_jerk": -2.663639816
+    "max_accel": 0.2872835306,
+    "max_jerk": 0.66130719,
+    "min_accel": -0.7292479565,
+    "min_jerk": -2.663639836
   },
   {
     "bump_height": 0.1,
     "bump_width": 0.8,
     "max_accel": 0.3830447064,
-    "max_jerk": 0.8817429543,
-    "min_accel": -0.9723306112,
-    "min_jerk": -3.551519745
+    "max_jerk": 0.88174295,
+    "min_accel": -0.9723306107,
+    "min_jerk": -3.551519734
   },
   {
     "bump_height": 0.125,
     "bump_width": 0.8,
-    "max_accel": 0.4788058818,
-    "max_jerk": 1.102178655,
+    "max_accel": 0.4788058813,
+    "max_jerk": 1.10217867,
     "min_accel": -1.215413261,
-    "min_jerk": -4.439399719
+    "min_jerk": -4.439399686
   },
   {
     "bump_height": 0.15,
     "bump_width": 0.8,
-    "max_accel": 0.5745670602,
-    "max_jerk": 1.322614389,
-    "min_accel": -1.458495916,
-    "min_jerk": -5.327279631
+    "max_accel": 0.574567062,
+    "max_jerk": 1.32261439,
+    "min_accel": -1.458495917,
+    "min_jerk": -5.327279645
   },
   {
     "bump_height": 0.025,
     "bump_width": 0.85,
-    "max_accel": 0.08505394982,
-    "max_jerk": 0.185177611,
+    "max_accel": 0.08505394992,
+    "max_jerk": 0.1851776151,
     "min_accel": -0.2143659866,
-    "min_jerk": -0.7447287873
+    "min_jerk": -0.7447287869
   },
   {
     "bump_height": 0.05,
     "bump_width": 0.85,
-    "max_accel": 0.170107899,
+    "max_accel": 0.1701078987,
     "max_jerk": 0.37035524,
-    "min_accel": -0.4287319722,
+    "min_accel": -0.4287319725,
     "min_jerk": -1.489457583
   },
   {
     "bump_height": 0.075,
     "bump_width": 0.85,
-    "max_accel": 0.2551618475,
+    "max_accel": 0.255161848,
     "max_jerk": 0.55553282,
-    "min_accel": -0.6430979589,
-    "min_jerk": -2.234186369
+    "min_accel": -0.6430979588,
+    "min_jerk": -2.23418637
   },
   {
     "bump_height": 0.1,
     "bump_width": 0.85,
-    "max_accel": 0.3402157994,
+    "max_accel": 0.3402157993,
     "max_jerk": 0.74071044,
-    "min_accel": -0.8574639442,
-    "min_jerk": -2.978915145
+    "min_accel": -0.8574639448,
+    "min_jerk": -2.978915138
   },
   {
     "bump_height": 0.125,
     "bump_width": 0.85,
-    "max_accel": 0.4252697514,
-    "max_jerk": 0.92588806,
+    "max_accel": 0.4252697513,
+    "max_jerk": 0.92588807,
     "min_accel": -1.071829935,
-    "min_jerk": -3.723643946
+    "min_jerk": -3.72364395
   },
   {
     "bump_height": 0.15,
     "bump_width": 0.85,
-    "max_accel": 0.510323701,
-    "max_jerk": 1.111065643,
-    "min_accel": -1.286195921,
-    "min_jerk": -4.468372721
+    "max_accel": 0.5103237009,
+    "max_jerk": 1.11106564,
+    "min_accel": -1.286195922,
+    "min_jerk": -4.468372715
   },
   {
     "bump_height": 0.025,
     "bump_width": 0.9,
-    "max_accel": 0.0759291316,
-    "max_jerk": 0.156778971,
-    "min_accel": -0.1898566379,
-    "min_jerk": -0.6287239944
+    "max_accel": 0.07592913161,
+    "max_jerk": 0.1567789674,
+    "min_accel": -0.1898566378,
+    "min_jerk": -0.628723993
   },
   {
     "bump_height": 0.05,
     "bump_width": 0.9,
-    "max_accel": 0.151858263,
-    "max_jerk": 0.3135579663,
-    "min_accel": -0.3797132772,
-    "min_jerk": -1.257447988
+    "max_accel": 0.1518582632,
+    "max_jerk": 0.3135579443,
+    "min_accel": -0.3797132767,
+    "min_jerk": -1.257447983
   },
   {
     "bump_height": 0.075,
     "bump_width": 0.9,
-    "max_accel": 0.2277873954,
-    "max_jerk": 0.470336907,
-    "min_accel": -0.5695699143,
-    "min_jerk": -1.88617198
+    "max_accel": 0.2277873956,
+    "max_jerk": 0.470336913,
+    "min_accel": -0.5695699133,
+    "min_jerk": -1.886171984
   },
   {
     "bump_height": 0.1,
     "bump_width": 0.9,
-    "max_accel": 0.3037165272,
-    "max_jerk": 0.627115901,
-    "min_accel": -0.7594265522,
-    "min_jerk": -2.514895967
+    "max_accel": 0.3037165258,
+    "max_jerk": 0.627115908,
+    "min_accel": -0.7594265512,
+    "min_jerk": -2.514895972
   },
   {
     "bump_height": 0.125,
     "bump_width": 0.9,
-    "max_accel": 0.3796456587,
-    "max_jerk": 0.7838949253,
-    "min_accel": -0.949283193,
+    "max_accel": 0.3796456577,
+    "max_jerk": 0.783894898,
+    "min_accel": -0.9492831921,
     "min_jerk": -3.14361998
   },
   {
     "bump_height": 0.15,
     "bump_width": 0.9,
-    "max_accel": 0.4555747917,
-    "max_jerk": 0.9406738488,
-    "min_accel": -1.139139825,
-    "min_jerk": -3.77234397
+    "max_accel": 0.4555747911,
+    "max_jerk": 0.940673836,
+    "min_accel": -1.139139824,
+    "min_jerk": -3.77234398
   },
   {
     "bump_height": 0.025,
@@ -828,7 +828,7 @@
     "bump_width": 0.95,
     "max_accel": 0.136222166,
     "max_jerk": 0.267408889,
-    "min_accel": -0.3378085291,
+    "min_accel": -0.3378085295,
     "min_jerk": -1.068358445
   },
   {
@@ -845,7 +845,7 @@
     "max_accel": 0.2724443331,
     "max_jerk": 0.53481779,
     "min_accel": -0.6756170568,
-    "min_jerk": -2.13671689
+    "min_jerk": -2.136716887
   },
   {
     "bump_height": 0.125,
@@ -859,56 +859,1016 @@
     "bump_height": 0.15,
     "bump_width": 0.95,
     "max_accel": 0.408666499,
-    "max_jerk": 0.80222667,
+    "max_jerk": 0.80222668,
     "min_accel": -1.013425585,
     "min_jerk": -3.205075312
   },
   {
     "bump_height": 0.025,
     "bump_width": 1,
-    "max_accel": 0.06137758079,
-    "max_jerk": 0.114802207,
+    "max_accel": 0.06137758077,
+    "max_jerk": 0.1148022092,
     "min_accel": -0.1509488588,
-    "min_jerk": -0.4566761038
+    "min_jerk": -0.456676103
   },
   {
     "bump_height": 0.05,
     "bump_width": 1,
     "max_accel": 0.1227551618,
-    "max_jerk": 0.2296044268,
+    "max_jerk": 0.229604429,
     "min_accel": -0.3018977174,
-    "min_jerk": -0.913352199
+    "min_jerk": -0.9133521986
   },
   {
     "bump_height": 0.075,
     "bump_width": 1,
-    "max_accel": 0.1841327424,
-    "max_jerk": 0.3444066284,
-    "min_accel": -0.4528465766,
-    "min_jerk": -1.370028297
+    "max_accel": 0.1841327421,
+    "max_jerk": 0.34440663,
+    "min_accel": -0.4528465751,
+    "min_jerk": -1.370028303
   },
   {
     "bump_height": 0.1,
     "bump_width": 1,
-    "max_accel": 0.2455103251,
-    "max_jerk": 0.4592088638,
+    "max_accel": 0.2455103236,
+    "max_jerk": 0.4592088506,
     "min_accel": -0.6037954338,
-    "min_jerk": -1.82670439
+    "min_jerk": -1.826704389
   },
   {
     "bump_height": 0.125,
     "bump_width": 1,
-    "max_accel": 0.3068879055,
+    "max_accel": 0.3068879054,
     "max_jerk": 0.57401106,
-    "min_accel": -0.7547442912,
-    "min_jerk": -2.28338052
+    "min_accel": -0.7547442909,
+    "min_jerk": -2.28338053
   },
   {
     "bump_height": 0.15,
     "bump_width": 1,
-    "max_accel": 0.3682654856,
-    "max_jerk": 0.68881329,
-    "min_accel": -0.9056931519,
-    "min_jerk": -2.740056589
+    "max_accel": 0.3682654853,
+    "max_jerk": 0.68881328,
+    "min_accel": -0.9056931517,
+    "min_jerk": -2.740056602
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.05,
+    "max_accel": 0.0555486951,
+    "max_jerk": 0.09919851,
+    "min_accel": -0.1355144282,
+    "min_jerk": -0.3927711175
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.05,
+    "max_accel": 0.1110973897,
+    "max_jerk": 0.198397011,
+    "min_accel": -0.271028858,
+    "min_jerk": -0.785542233
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.05,
+    "max_accel": 0.1666460864,
+    "max_jerk": 0.29759554,
+    "min_accel": -0.4065432876,
+    "min_jerk": -1.178313364
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.05,
+    "max_accel": 0.222194781,
+    "max_jerk": 0.39679404,
+    "min_accel": -0.5420577134,
+    "min_jerk": -1.571084488
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.05,
+    "max_accel": 0.277743474,
+    "max_jerk": 0.49599253,
+    "min_accel": -0.6775721432,
+    "min_jerk": -1.963855608
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.05,
+    "max_accel": 0.333292171,
+    "max_jerk": 0.59519108,
+    "min_accel": -0.8130865708,
+    "min_jerk": -2.356626718
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.1,
+    "max_accel": 0.050478096,
+    "max_jerk": 0.0862246686,
+    "min_accel": -0.1221999429,
+    "min_jerk": -0.339770582
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.1,
+    "max_accel": 0.1009561924,
+    "max_jerk": 0.172449338,
+    "min_accel": -0.2443998877,
+    "min_jerk": -0.679541167
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.1,
+    "max_accel": 0.151434288,
+    "max_jerk": 0.25867401,
+    "min_accel": -0.3665998265,
+    "min_jerk": -1.019311743
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.1,
+    "max_accel": 0.2019123836,
+    "max_jerk": 0.344898686,
+    "min_accel": -0.4887997694,
+    "min_jerk": -1.35908232
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.1,
+    "max_accel": 0.2523904795,
+    "max_jerk": 0.43112334,
+    "min_accel": -0.6109997132,
+    "min_jerk": -1.69885291
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.1,
+    "max_accel": 0.3028685754,
+    "max_jerk": 0.517348017,
+    "min_accel": -0.733199657,
+    "min_jerk": -2.03862348
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.15,
+    "max_accel": 0.04604622667,
+    "max_jerk": 0.0753640971,
+    "min_accel": -0.1106695134,
+    "min_jerk": -0.2955590162
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.15,
+    "max_accel": 0.0920924534,
+    "max_jerk": 0.1507281947,
+    "min_accel": -0.2213390264,
+    "min_jerk": -0.591118037
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.15,
+    "max_accel": 0.1381386795,
+    "max_jerk": 0.2260922927,
+    "min_accel": -0.3320085391,
+    "min_jerk": -0.8866770533
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.15,
+    "max_accel": 0.1841849074,
+    "max_jerk": 0.3014563953,
+    "min_accel": -0.4426780526,
+    "min_jerk": -1.182236068
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.15,
+    "max_accel": 0.2302311343,
+    "max_jerk": 0.376820496,
+    "min_accel": -0.5533475659,
+    "min_jerk": -1.477795108
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.15,
+    "max_accel": 0.2762773615,
+    "max_jerk": 0.452184567,
+    "min_accel": -0.6640170784,
+    "min_jerk": -1.77335412
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.2,
+    "max_accel": 0.042154965,
+    "max_jerk": 0.0662140894,
+    "min_accel": -0.1006428612,
+    "min_jerk": -0.258468736
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.2,
+    "max_accel": 0.08430993,
+    "max_jerk": 0.1324281736,
+    "min_accel": -0.2012857232,
+    "min_jerk": -0.516937469
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.2,
+    "max_accel": 0.1264648945,
+    "max_jerk": 0.1986422633,
+    "min_accel": -0.3019285834,
+    "min_jerk": -0.775406197
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.2,
+    "max_accel": 0.1686198591,
+    "max_jerk": 0.264856349,
+    "min_accel": -0.4025714466,
+    "min_jerk": -1.033874936
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.2,
+    "max_accel": 0.2107748248,
+    "max_jerk": 0.331070437,
+    "min_accel": -0.503214309,
+    "min_jerk": -1.292343668
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.2,
+    "max_accel": 0.2529297889,
+    "max_jerk": 0.3972845175,
+    "min_accel": -0.6038571699,
+    "min_jerk": -1.550812406
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.25,
+    "max_accel": 0.03872341737,
+    "max_jerk": 0.0584586477,
+    "min_accel": -0.09188665473,
+    "min_jerk": -0.2271783716
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.25,
+    "max_accel": 0.07744683453,
+    "max_jerk": 0.116917295,
+    "min_accel": -0.1837733117,
+    "min_jerk": -0.4543567379
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.25,
+    "max_accel": 0.116170252,
+    "max_jerk": 0.1753759403,
+    "min_accel": -0.2756599635,
+    "min_jerk": -0.681535117
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.25,
+    "max_accel": 0.1548936695,
+    "max_jerk": 0.233834586,
+    "min_accel": -0.3675466184,
+    "min_jerk": -0.90871348
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.25,
+    "max_accel": 0.1936170865,
+    "max_jerk": 0.292293243,
+    "min_accel": -0.4594332746,
+    "min_jerk": -1.135891858
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.25,
+    "max_accel": 0.2323405044,
+    "max_jerk": 0.350751885,
+    "min_accel": -0.5513199279,
+    "min_jerk": -1.363070217
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.3,
+    "max_accel": 0.03568460708,
+    "max_jerk": 0.0518476687,
+    "min_accel": -0.0842067731,
+    "min_jerk": -0.2006369876
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.3,
+    "max_accel": 0.07136921445,
+    "max_jerk": 0.103695336,
+    "min_accel": -0.1684135442,
+    "min_jerk": -0.401273979
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.3,
+    "max_accel": 0.1070538212,
+    "max_jerk": 0.155543006,
+    "min_accel": -0.2526203168,
+    "min_jerk": -0.601910964
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.3,
+    "max_accel": 0.1427384286,
+    "max_jerk": 0.207390676,
+    "min_accel": -0.3368270884,
+    "min_jerk": -0.802547937
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.3,
+    "max_accel": 0.1784230358,
+    "max_jerk": 0.259238345,
+    "min_accel": -0.421033866,
+    "min_jerk": -1.003184953
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.3,
+    "max_accel": 0.214107642,
+    "max_jerk": 0.311086019,
+    "min_accel": -0.5052406396,
+    "min_jerk": -1.203821922
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.35,
+    "max_accel": 0.03298278025,
+    "max_jerk": 0.0461817512,
+    "min_accel": -0.0774417493,
+    "min_jerk": -0.1780044261
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.35,
+    "max_accel": 0.0659655605,
+    "max_jerk": 0.092363504,
+    "min_accel": -0.1548834993,
+    "min_jerk": -0.3560088487
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.35,
+    "max_accel": 0.0989483413,
+    "max_jerk": 0.138545254,
+    "min_accel": -0.232325251,
+    "min_jerk": -0.534013275
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.35,
+    "max_accel": 0.1319311215,
+    "max_jerk": 0.184727008,
+    "min_accel": -0.3097669971,
+    "min_jerk": -0.7120177046
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.35,
+    "max_accel": 0.1649139019,
+    "max_jerk": 0.230908759,
+    "min_accel": -0.3872087483,
+    "min_jerk": -0.890022129
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.35,
+    "max_accel": 0.1978966827,
+    "max_jerk": 0.277090507,
+    "min_accel": -0.4646504976,
+    "min_jerk": -1.068026557
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.4,
+    "max_accel": 0.03057138245,
+    "max_jerk": 0.0413009703,
+    "min_accel": -0.07145709725,
+    "min_jerk": -0.158606139
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.4,
+    "max_accel": 0.0611427647,
+    "max_jerk": 0.082601942,
+    "min_accel": -0.1429141953,
+    "min_jerk": -0.3172122664
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.4,
+    "max_accel": 0.091714147,
+    "max_jerk": 0.1239029122,
+    "min_accel": -0.2143712942,
+    "min_jerk": -0.4758184052
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.4,
+    "max_accel": 0.1222855292,
+    "max_jerk": 0.1652038861,
+    "min_accel": -0.2858283906,
+    "min_jerk": -0.634424544
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.4,
+    "max_accel": 0.1528569114,
+    "max_jerk": 0.206504854,
+    "min_accel": -0.357285488,
+    "min_jerk": -0.7930306736
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.4,
+    "max_accel": 0.1834282944,
+    "max_jerk": 0.247805822,
+    "min_accel": -0.4287425874,
+    "min_jerk": -0.95163679
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.45,
+    "max_accel": 0.02841133049,
+    "max_jerk": 0.0370762144,
+    "min_accel": -0.06614067134,
+    "min_jerk": -0.1418976268
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.45,
+    "max_accel": 0.0568226604,
+    "max_jerk": 0.0741524293,
+    "min_accel": -0.1322813433,
+    "min_jerk": -0.283795246
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.45,
+    "max_accel": 0.08523399059,
+    "max_jerk": 0.111228644,
+    "min_accel": -0.1984220148,
+    "min_jerk": -0.4256928797
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.45,
+    "max_accel": 0.1136453207,
+    "max_jerk": 0.148304858,
+    "min_accel": -0.2645626886,
+    "min_jerk": -0.5675905026
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.45,
+    "max_accel": 0.1420566506,
+    "max_jerk": 0.185381073,
+    "min_accel": -0.3307033603,
+    "min_jerk": -0.7094881097
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.45,
+    "max_accel": 0.1704679821,
+    "max_jerk": 0.222457289,
+    "min_accel": -0.3968440301,
+    "min_jerk": -0.8513857594
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.5,
+    "max_accel": 0.02646969068,
+    "max_jerk": 0.0334025122,
+    "min_accel": -0.06139870794,
+    "min_jerk": -0.127437577
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.5,
+    "max_accel": 0.05293938165,
+    "max_jerk": 0.06680502503,
+    "min_accel": -0.1227974159,
+    "min_jerk": -0.2548751556
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.5,
+    "max_accel": 0.07940907249,
+    "max_jerk": 0.1002075355,
+    "min_accel": -0.1841961229,
+    "min_jerk": -0.382312725
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.5,
+    "max_accel": 0.105878763,
+    "max_jerk": 0.1336100487,
+    "min_accel": -0.2455948309,
+    "min_jerk": -0.509750296
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.5,
+    "max_accel": 0.1323484528,
+    "max_jerk": 0.1670125619,
+    "min_accel": -0.3069935409,
+    "min_jerk": -0.6371878794
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.5,
+    "max_accel": 0.1588181442,
+    "max_jerk": 0.200415074,
+    "min_accel": -0.3683922448,
+    "min_jerk": -0.764625466
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.55,
+    "max_accel": 0.02471859351,
+    "max_jerk": 0.0301941089,
+    "min_accel": -0.0571526035,
+    "min_jerk": -0.114866432
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.55,
+    "max_accel": 0.04943718733,
+    "max_jerk": 0.0603882187,
+    "min_accel": -0.1143052066,
+    "min_jerk": -0.229732865
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.55,
+    "max_accel": 0.07415578063,
+    "max_jerk": 0.09058232756,
+    "min_accel": -0.1714578095,
+    "min_jerk": -0.3445992891
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.55,
+    "max_accel": 0.09887437438,
+    "max_jerk": 0.1207764356,
+    "min_accel": -0.2286104132,
+    "min_jerk": -0.4594657444
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.55,
+    "max_accel": 0.1235929674,
+    "max_jerk": 0.1509705429,
+    "min_accel": -0.2857630187,
+    "min_jerk": -0.574332138
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.55,
+    "max_accel": 0.1483115623,
+    "max_jerk": 0.1811646529,
+    "min_accel": -0.3429156222,
+    "min_jerk": -0.6891986016
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.6,
+    "max_accel": 0.02313435017,
+    "max_jerk": 0.02738056116,
+    "min_accel": -0.05333629719,
+    "min_jerk": -0.1038897309
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.6,
+    "max_accel": 0.04626870054,
+    "max_jerk": 0.0547611231,
+    "min_accel": -0.1066725943,
+    "min_jerk": -0.2077794609
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.6,
+    "max_accel": 0.06940305069,
+    "max_jerk": 0.08214168474,
+    "min_accel": -0.160008891,
+    "min_jerk": -0.311669198
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.6,
+    "max_accel": 0.09253740111,
+    "max_jerk": 0.109522247,
+    "min_accel": -0.2133451905,
+    "min_jerk": -0.41555893
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.6,
+    "max_accel": 0.1156717512,
+    "max_jerk": 0.136902806,
+    "min_accel": -0.2666814868,
+    "min_jerk": -0.51944866
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.6,
+    "max_accel": 0.1388061023,
+    "max_jerk": 0.16428337,
+    "min_accel": -0.3200177841,
+    "min_jerk": -0.62333843
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.65,
+    "max_accel": 0.02169676144,
+    "max_jerk": 0.0249035967,
+    "min_accel": -0.04989404039,
+    "min_jerk": -0.09426538747
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.65,
+    "max_accel": 0.04339352271,
+    "max_jerk": 0.0498071934,
+    "min_accel": -0.09978808043,
+    "min_jerk": -0.1885307799
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.65,
+    "max_accel": 0.06509028416,
+    "max_jerk": 0.0747107899,
+    "min_accel": -0.149682122,
+    "min_jerk": -0.2827961699
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.65,
+    "max_accel": 0.0867870456,
+    "max_jerk": 0.099614387,
+    "min_accel": -0.1995761615,
+    "min_jerk": -0.3770615669
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.65,
+    "max_accel": 0.1084838076,
+    "max_jerk": 0.1245179814,
+    "min_accel": -0.2494701993,
+    "min_jerk": -0.471326964
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.65,
+    "max_accel": 0.130180568,
+    "max_jerk": 0.1494215785,
+    "min_accel": -0.2993642425,
+    "min_jerk": -0.565592345
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.7,
+    "max_accel": 0.02038851052,
+    "max_jerk": 0.02271487904,
+    "min_accel": -0.04677862721,
+    "min_jerk": -0.08579320306
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.7,
+    "max_accel": 0.04077702114,
+    "max_jerk": 0.0454297576,
+    "min_accel": -0.0935572552,
+    "min_jerk": -0.171586406
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.7,
+    "max_accel": 0.06116553206,
+    "max_jerk": 0.0681446354,
+    "min_accel": -0.1403358822,
+    "min_jerk": -0.2573796042
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.7,
+    "max_accel": 0.08155404336,
+    "max_jerk": 0.090859517,
+    "min_accel": -0.1871145071,
+    "min_jerk": -0.34317282
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.7,
+    "max_accel": 0.1019425528,
+    "max_jerk": 0.113574396,
+    "min_accel": -0.2338931378,
+    "min_jerk": -0.42896598
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.7,
+    "max_accel": 0.1223310639,
+    "max_jerk": 0.1362892706,
+    "min_accel": -0.2806717627,
+    "min_jerk": -0.514759193
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.75,
+    "max_accel": 0.01919472629,
+    "max_jerk": 0.0207740454,
+    "min_accel": -0.04394993448,
+    "min_jerk": -0.078306921
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.75,
+    "max_accel": 0.03838945278,
+    "max_jerk": 0.0415480906,
+    "min_accel": -0.08789986855,
+    "min_jerk": -0.156613838
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.75,
+    "max_accel": 0.05758417949,
+    "max_jerk": 0.0623221348,
+    "min_accel": -0.1318498029,
+    "min_jerk": -0.234920757
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.75,
+    "max_accel": 0.07677890576,
+    "max_jerk": 0.0830961853,
+    "min_accel": -0.1757997371,
+    "min_jerk": -0.3132276665
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.75,
+    "max_accel": 0.09597363127,
+    "max_jerk": 0.103870227,
+    "min_accel": -0.2197496734,
+    "min_jerk": -0.39153461
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.75,
+    "max_accel": 0.1151683588,
+    "max_jerk": 0.124644274,
+    "min_accel": -0.2636996096,
+    "min_jerk": -0.46984153
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.8,
+    "max_accel": 0.01810257496,
+    "max_jerk": 0.0190472498,
+    "min_accel": -0.04137372299,
+    "min_jerk": -0.0716682622
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.8,
+    "max_accel": 0.03620514992,
+    "max_jerk": 0.03809449937,
+    "min_accel": -0.08274744481,
+    "min_jerk": -0.143336524
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.8,
+    "max_accel": 0.05430772532,
+    "max_jerk": 0.05714174958,
+    "min_accel": -0.1241211682,
+    "min_jerk": -0.215004787
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.8,
+    "max_accel": 0.07241030044,
+    "max_jerk": 0.07618900024,
+    "min_accel": -0.1654948927,
+    "min_jerk": -0.28667306
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.8,
+    "max_accel": 0.09051287534,
+    "max_jerk": 0.09523624696,
+    "min_accel": -0.206868613,
+    "min_jerk": -0.358341298
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.8,
+    "max_accel": 0.1086154516,
+    "max_jerk": 0.1142834979,
+    "min_accel": -0.248242337,
+    "min_jerk": -0.430009572
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.85,
+    "max_accel": 0.01710093892,
+    "max_jerk": 0.0175059865,
+    "min_accel": -0.03902070496,
+    "min_jerk": -0.06576078
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.85,
+    "max_accel": 0.03420187788,
+    "max_jerk": 0.03501197343,
+    "min_accel": -0.07804141031,
+    "min_jerk": -0.1315215639
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.85,
+    "max_accel": 0.05130281689,
+    "max_jerk": 0.05251796047,
+    "min_accel": -0.117062115,
+    "min_jerk": -0.1972823427
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.85,
+    "max_accel": 0.06840375539,
+    "max_jerk": 0.07002394806,
+    "min_accel": -0.1560828225,
+    "min_jerk": -0.2630431158
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.85,
+    "max_accel": 0.08550469429,
+    "max_jerk": 0.087529936,
+    "min_accel": -0.1951035273,
+    "min_jerk": -0.328803876
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.85,
+    "max_accel": 0.1026056326,
+    "max_jerk": 0.10503592,
+    "min_accel": -0.2341242308,
+    "min_jerk": -0.394564666
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.9,
+    "max_accel": 0.01618015532,
+    "max_jerk": 0.01612617588,
+    "min_accel": -0.03686565632,
+    "min_jerk": -0.06048691173
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.9,
+    "max_accel": 0.03236031069,
+    "max_jerk": 0.03225235205,
+    "min_accel": -0.07373131192,
+    "min_jerk": -0.1209738164
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.9,
+    "max_accel": 0.04854046603,
+    "max_jerk": 0.04837852755,
+    "min_accel": -0.1105969654,
+    "min_jerk": -0.1814607316
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.9,
+    "max_accel": 0.06472062063,
+    "max_jerk": 0.06450470451,
+    "min_accel": -0.1474626252,
+    "min_jerk": -0.2419476363
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.9,
+    "max_accel": 0.08090077597,
+    "max_jerk": 0.08063087997,
+    "min_accel": -0.1843282798,
+    "min_jerk": -0.3024345657
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.9,
+    "max_accel": 0.09708093132,
+    "max_jerk": 0.09675705512,
+    "min_accel": -0.2211939379,
+    "min_jerk": -0.362921458
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 1.95,
+    "max_accel": 0.0153318099,
+    "max_jerk": 0.01488732221,
+    "min_accel": -0.03488680784,
+    "min_jerk": -0.0557641216
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 1.95,
+    "max_accel": 0.03066361969,
+    "max_jerk": 0.02977464431,
+    "min_accel": -0.06977361508,
+    "min_jerk": -0.1115282461
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 1.95,
+    "max_accel": 0.0459954296,
+    "max_jerk": 0.04466196573,
+    "min_accel": -0.1046604244,
+    "min_jerk": -0.167292375
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 1.95,
+    "max_accel": 0.06132723936,
+    "max_jerk": 0.05954928702,
+    "min_accel": -0.1395472329,
+    "min_jerk": -0.223056492
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 1.95,
+    "max_accel": 0.07665904953,
+    "max_jerk": 0.0744366093,
+    "min_accel": -0.1744340404,
+    "min_jerk": -0.27882062
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 1.95,
+    "max_accel": 0.09199085891,
+    "max_jerk": 0.089323931,
+    "min_accel": -0.2093208467,
+    "min_jerk": -0.33458476
+  },
+  {
+    "bump_height": 0.025,
+    "bump_width": 2,
+    "max_accel": 0.01454853709,
+    "max_jerk": 0.01377195664,
+    "min_accel": -0.03306532799,
+    "min_jerk": -0.05152214295
+  },
+  {
+    "bump_height": 0.05,
+    "bump_width": 2,
+    "max_accel": 0.02909707466,
+    "max_jerk": 0.02754391326,
+    "min_accel": -0.06613065579,
+    "min_jerk": -0.1030442787
+  },
+  {
+    "bump_height": 0.075,
+    "bump_width": 2,
+    "max_accel": 0.04364561185,
+    "max_jerk": 0.04131586976,
+    "min_accel": -0.09919598118,
+    "min_jerk": -0.154566422
+  },
+  {
+    "bump_height": 0.1,
+    "bump_width": 2,
+    "max_accel": 0.05819414908,
+    "max_jerk": 0.05508782705,
+    "min_accel": -0.1322613115,
+    "min_jerk": -0.2060885573
+  },
+  {
+    "bump_height": 0.125,
+    "bump_width": 2,
+    "max_accel": 0.07274268589,
+    "max_jerk": 0.06885978192,
+    "min_accel": -0.1653266436,
+    "min_jerk": -0.2576107075
+  },
+  {
+    "bump_height": 0.15,
+    "bump_width": 2,
+    "max_accel": 0.08729122419,
+    "max_jerk": 0.082631739,
+    "min_accel": -0.1983919697,
+    "min_jerk": -0.3091328454
   }
 ]
