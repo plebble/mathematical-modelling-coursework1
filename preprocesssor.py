@@ -1,5 +1,6 @@
 import json
 import csv
+import copy
 
 with open("export_main.json","r") as file:
     input_data = json.load(file)
@@ -40,9 +41,8 @@ row_lookup = {}
 for row,value in enumerate(row_headers):
     row_lookup[value] = row + 1
 
-csv_output = {"max_accel":table_template.copy(),"min_accel":table_template.copy(),"max_jerk":table_template.copy(),"min_jerk":table_template.copy()}
+csv_output = {"max_accel":copy.deepcopy(table_template),"min_accel":copy.deepcopy(table_template),"max_jerk":copy.deepcopy(table_template),"min_jerk":copy.deepcopy(table_template)}
 
-table_template[row_lookup[0.15]][col_lookup[0.2]] = "hello"
 
 with open("export_main.json","r") as file:
     input_data = json.load(file)
@@ -54,8 +54,6 @@ for bump in input_data:
     for i in ["max_accel","min_accel","max_jerk","min_jerk"]:
         csv_output[i][row_lookup[bump_height]][col_lookup[bump_width]] = bump[i]
 
-
-print(csv_output["max_accel"])
 
 for key in list(csv_output.keys()):
     print(key)
